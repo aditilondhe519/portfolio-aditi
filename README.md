@@ -24,7 +24,7 @@ This is my personal portfolio website, showcasing my skills, projects, and profe
 
 ## 🌐 Live Demo
 
-🔗 [View Website on GitHub Pages](https://your-username.github.io/portfolio-aditi/)
+🔗 [View Website on GitHub Pages](https://aditilondhe519.github.io/portfolio-aditi/)
 
 ## 📂 Folder Structure
 
